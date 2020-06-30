@@ -1,4 +1,5 @@
 import quickTest from './quickTest';
+import './sweeper.test';
 
 declare const it: Mocha.TestFunction;
 

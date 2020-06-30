@@ -12,6 +12,7 @@ module.exports = {
   ],
   rules: {
     'no-plusplus': 'off',
+    '@typescript-eslint/array-type': 'off',
     'no-console': 'off',
     'import/no-extraneous-dependencies': ['error', {
       devDependencies: [
